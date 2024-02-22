@@ -1,4 +1,4 @@
-Hi, I’m @Jason-Mittels.
+Hi, I’m @jasonmittels,
 I mainly do game devolpement.
 I know C, and some HTML/CSS/JS. I work with SDL2 for graphics and am interested to learn openGL somepoint.
 I use linux, but I won't get mad, if you don't ;).
